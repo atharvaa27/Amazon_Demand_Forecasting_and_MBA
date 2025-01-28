@@ -34,11 +34,11 @@ This project focuses on enhancing customer satisfaction in e-commerce platforms 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/atharvaa27/Amazon_Demand_Forecasting_and_MBA.git
 
 2. Navigate to the project directory:
    ```bash
-   cd your-repo-name
+   cd Amazon_Demand_Forecasting_and_MBA
 3. Install dependencies:
    ```bash
    pip install -r requirements.txt
